@@ -25,7 +25,7 @@ $(document).ready(function() {
         $(novoItem).appendTo('ul');
         $(novoItem).fadeIn(1000);
         
-        // A LINHA QUE VOCÊ TANTO CHOROU:
+
         $('#endereco-imagem-nova').val('');
     });
 });
